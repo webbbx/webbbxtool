@@ -3,7 +3,7 @@
 IP反查小工具 
  
 '''  
-#athour by webbbx
+#author by webbbx
 
 
 import requests,json,urllib,sys,os  
